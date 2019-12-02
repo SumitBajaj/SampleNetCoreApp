@@ -9,3 +9,14 @@
 /Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/SampleNetCoreApp/obj/Debug/netcoreapp2.0/SampleNetCoreApp.AssemblyInfo.cs
 /Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/SampleNetCoreApp/obj/Debug/netcoreapp2.0/SampleNetCoreApp.dll
 /Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/SampleNetCoreApp/obj/Debug/netcoreapp2.0/SampleNetCoreApp.pdb
+/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/bin/Debug/netcoreapp2.0/SampleNetCoreApp.deps.json
+/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/bin/Debug/netcoreapp2.0/SampleNetCoreApp.runtimeconfig.json
+/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/bin/Debug/netcoreapp2.0/SampleNetCoreApp.runtimeconfig.dev.json
+/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/bin/Debug/netcoreapp2.0/SampleNetCoreApp.dll
+/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/bin/Debug/netcoreapp2.0/SampleNetCoreApp.pdb
+/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/obj/Debug/netcoreapp2.0/SampleNetCoreApp.csprojResolveAssemblyReference.cache
+/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/obj/Debug/netcoreapp2.0/SampleNetCoreApp.csproj.CoreCompileInputs.cache
+/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/obj/Debug/netcoreapp2.0/SampleNetCoreApp.AssemblyInfoInputs.cache
+/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/obj/Debug/netcoreapp2.0/SampleNetCoreApp.AssemblyInfo.cs
+/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/obj/Debug/netcoreapp2.0/SampleNetCoreApp.dll
+/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/obj/Debug/netcoreapp2.0/SampleNetCoreApp.pdb

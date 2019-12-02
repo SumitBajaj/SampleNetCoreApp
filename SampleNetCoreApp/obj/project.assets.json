@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/SampleNetCoreApp/SampleNetCoreApp.csproj",
+      "projectUniqueName": "/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/SampleNetCoreApp.csproj",
       "projectName": "SampleNetCoreApp",
-      "projectPath": "/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/SampleNetCoreApp/SampleNetCoreApp.csproj",
+      "projectPath": "/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/SampleNetCoreApp.csproj",
       "packagesPath": "/Users/sumitbajaj/.nuget/packages/",
-      "outputPath": "/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/SampleNetCoreApp/obj",
+      "outputPath": "/Users/sumitbajaj/Projects/SampleNetCoreApp/SampleNetCoreApp/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
