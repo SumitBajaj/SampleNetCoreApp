@@ -1,2 +1,2 @@
 # SampleNetCoreApp
-This demo is created to show the Gihub Actions
+This demo is created to show the Gihub Actions. Test
